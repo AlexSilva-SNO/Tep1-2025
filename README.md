@@ -1,2 +1,4 @@
-# Tep1-2025
-Repositório da matéria de TÓPICOS ESPECIAIS EM PROGRAMAÇÃO - T01 2025.1 
+# Aula 01 18/02
+Apresentação da matéria, Plano de Curso, introdução a IA e criação de uma musica em grupo ultilizando https://suno.com/
+
+# Aula 02 25/02
